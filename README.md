@@ -40,3 +40,18 @@ SAMT - mass ABAP Syntax check
 - SARL Call of ArchiveLink Monitor
 - SARP Reporting (Tree Structure): Execute
 - SART Display Reporting Tree
+
+
+http://scn.sap.com/community/bpm/business-workflow/blog/2006/06/19/why-use-abap-oo-with-workflow
+
+http://scn.sap.com/community/bpm/business-workflow/blog/2006/06/28/getting-started-with-abap-oo-for-workflow-using-the-ifworkflow-interface
+
+http://scn.sap.com/community/bpm/business-workflow/blog/2006/07/25/using-abap-oo-methods-in-workflow-tasks
+
+http://scn.sap.com/community/bpm/business-workflow/blog/2006/07/27/raising-abap-oo-events-for-workflow
+
+http://scn.sap.com/community/bpm/business-workflow/blog/2006/08/21/using-abap-oo-attributes-in-workflows-and-tasks
+
+http://scn.sap.com/community/bpm/business-workflow/blog/2006/12/19/using-functional-methods-in-workflows-and-tasks
+
+http://scn.sap.com/community/bpm/business-workflow/blog/2007/07/16/referencing-bor-objects-in-abap-oo-classes
