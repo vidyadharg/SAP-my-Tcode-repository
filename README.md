@@ -41,6 +41,9 @@ SAMT - mass ABAP Syntax check
 - SARP Reporting (Tree Structure): Execute
 - SART Display Reporting Tree
 
+SLOC – How many lines of custom ABAP code are inside your system? – Part3 (it’s now available as Code Inspector check)
+Clones – Simple ABAP Clone Hunter (the great standard SAP Clone Finder is now part of CCMC and transaction /sdf/cd_cca)
+User-Exits – How many exit routines are active in your SAP ERP system? (it’s part of CCMC and transaction /sdf/cd_cca)
 
 http://scn.sap.com/community/bpm/business-workflow/blog/2006/06/19/why-use-abap-oo-with-workflow
 
