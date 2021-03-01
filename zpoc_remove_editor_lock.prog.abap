@@ -1,4 +1,7 @@
 *SAP ABAP Removed Editor lock 
+*Selection text
+*LOCK	Editor lock flag
+*PROGRAM	Program Name
 
 REPORT zpoc_remove_editor_lock.
 
