@@ -1,0 +1,21 @@
+steps to maintain workflow translations:
+
+1) Access to tcode SE63.
+
+2) From Menu: select Translation --> ABAP Objects --> Transport Object
+
+3) Enter transport data:
+
+- R3TR PDWS [Object ID] for Workflow Template
+
+- R3TR PDTS [Object ID] for Standard Task
+
+4) Select Source and Target Language (I suppose Source EN, Target IT)
+
+5) Clic Edit button
+
+6) Translate available texts.
+
+7) Add translations to a Workbench request with RS_LXE_RECORD_TORDER report
+
+8) Release Transport request.
