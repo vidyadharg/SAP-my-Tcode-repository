@@ -2,6 +2,9 @@
 
 SAMT - mass ABAP Syntax check
 
+## Program
+RPUAUD00: Logged changes in Infotype data
+
 ## TCodes for Archive
 
 ### ArchiveLink (BC-SRV-ARL)
