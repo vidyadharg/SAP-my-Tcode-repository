@@ -44,6 +44,9 @@ RPUAUD00: Logged changes in Infotype data
 - SARP Reporting (Tree Structure): Execute
 - SART Display Reporting Tree
 
+    https://www.saptechnicalguru.com/data-archiving-change-documents/
+
+
 SLOC – How many lines of custom ABAP code are inside your system? – Part3 (it’s now available as Code Inspector check)
 Clones – Simple ABAP Clone Hunter (the great standard SAP Clone Finder is now part of CCMC and transaction /sdf/cd_cca)
 User-Exits – How many exit routines are active in your SAP ERP system? (it’s part of CCMC and transaction /sdf/cd_cca)
